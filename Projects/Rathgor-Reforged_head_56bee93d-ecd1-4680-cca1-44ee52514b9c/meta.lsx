@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="56bee93d-ecd1-4680-cca1-44ee52514b9c"/>
+            <attribute id="Name" type="LSString" value="Rathgor-Reforged_head"/>
+            <attribute id="UUID" type="LSString" value="e25dfde9-b141-c25e-c51e-e17ca8f16185"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

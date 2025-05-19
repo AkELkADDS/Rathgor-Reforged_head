@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3b034ae3-d260-4a73-b10f-9e954489d19a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7b1c88de-4381-4de3-9564-d3b27dc96098" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_E_EL_Reforged_Clean" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="c3de8fb6-6c78-4206-9b4d-717ec81c2cda" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="DragonbornTop;DragonbornChin;DragonbornJaw;Tail" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="15daae8f-8242-40f1-a7fe-0f13671a7868" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2d9197a0-4fc4-4e5b-8671-807ac35d6cab" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_E_EL_Reforged_Broken_R" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="c3de8fb6-6c78-4206-9b4d-717ec81c2cda" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="DragonbornTop;DragonbornChin;DragonbornJaw;Tail" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="0004d552-4c04-4ce0-b690-39743baababf" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bb647b63-e8d1-45a4-9551-6f12bc632cf0" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_E_EL_Reforged_Broken_L" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="c3de8fb6-6c78-4206-9b4d-717ec81c2cda" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="DragonbornTop;DragonbornChin;DragonbornJaw;Tail" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="20eb7556-6833-469b-8de2-b8e130399593" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

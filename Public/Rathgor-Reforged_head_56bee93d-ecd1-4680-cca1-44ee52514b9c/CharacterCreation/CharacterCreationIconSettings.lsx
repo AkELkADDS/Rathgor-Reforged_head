@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="CharacterCreationIconSettings">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationIconSetting">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="15daae8f-8242-40f1-a7fe-0f13671a7868"/>
+                    <attribute id="RootTemplate" type="guid" value="c3de8fb6-6c78-4206-9b4d-717ec81c2cda"/>
+                    <attribute id="UUID" type="guid" value="7b1c88de-4381-4de3-9564-d3b27dc96098"/>
+                    <children>
+                        <node id="SlotNames">
+                            <children>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="DragonbornTop"/>
+                                </node>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="DragonbornChin"/>
+                                </node>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="DragonbornJaw"/>
+                                </node>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="Tail"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationIconSetting">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="0004d552-4c04-4ce0-b690-39743baababf"/>
+                    <attribute id="RootTemplate" type="guid" value="c3de8fb6-6c78-4206-9b4d-717ec81c2cda"/>
+                    <attribute id="UUID" type="guid" value="2d9197a0-4fc4-4e5b-8671-807ac35d6cab"/>
+                    <children>
+                        <node id="SlotNames">
+                            <children>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="DragonbornTop"/>
+                                </node>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="DragonbornChin"/>
+                                </node>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="DragonbornJaw"/>
+                                </node>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="Tail"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationIconSetting">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="20eb7556-6833-469b-8de2-b8e130399593"/>
+                    <attribute id="RootTemplate" type="guid" value="c3de8fb6-6c78-4206-9b4d-717ec81c2cda"/>
+                    <attribute id="UUID" type="guid" value="bb647b63-e8d1-45a4-9551-6f12bc632cf0"/>
+                    <children>
+                        <node id="SlotNames">
+                            <children>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="DragonbornTop"/>
+                                </node>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="DragonbornChin"/>
+                                </node>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="DragonbornJaw"/>
+                                </node>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="Tail"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
