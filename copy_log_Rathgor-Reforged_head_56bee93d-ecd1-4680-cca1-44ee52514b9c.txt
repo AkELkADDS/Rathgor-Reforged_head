@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c 
-   Mon 11/10/2025 20:30:15.14 
+   Mon 11/10/2025 23:50:38.29 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -193,7 +193,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, November 10, 2025 8:30:27 PM
+  Started : Monday, November 10, 2025 11:50:41 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Projects\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
 
@@ -215,9 +215,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           3598278000 Bytes/sec.
-   Speed :           205895.118 MegaBytes/min.
-   Ended : Monday, November 10, 2025 8:30:27 PM
+   Speed :           7196556000 Bytes/sec.
+   Speed :           411790.237 MegaBytes/min.
+   Ended : Monday, November 10, 2025 11:50:41 PM
 
  
 [DEBUG] Counting source files 
@@ -243,7 +243,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, November 10, 2025 8:30:29 PM
+  Started : Monday, November 10, 2025 11:50:42 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
 
@@ -266,9 +266,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            90988000 Bytes/sec.
-   Speed :            5206.375 MegaBytes/min.
-   Ended : Monday, November 10, 2025 8:30:29 PM
+   Speed :           181976000 Bytes/sec.
+   Speed :           10412.750 MegaBytes/min.
+   Ended : Monday, November 10, 2025 11:50:42 PM
 
  
 [DEBUG] Counting source files 
@@ -294,7 +294,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, November 10, 2025 8:30:31 PM
+  Started : Monday, November 10, 2025 11:50:44 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
 
@@ -305,7 +305,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		    4930	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\meta.lsx100%  
-	    New File  		   6.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\mod_publish_logo.png  0%  100%  
+	    New File  		   6.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\GUI\metadata.lsf100%  
 	    New File  		   14222	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Localization\English\english.xml100%  
 
@@ -318,9 +318,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           3608075000 Bytes/sec.
-   Speed :           206455.707 MegaBytes/min.
-   Ended : Monday, November 10, 2025 8:30:31 PM
+   Speed :           7216150000 Bytes/sec.
+   Speed :           412911.415 MegaBytes/min.
+   Ended : Monday, November 10, 2025 11:50:44 PM
 
  
 [DEBUG] Counting source files 
@@ -346,7 +346,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, November 10, 2025 8:30:32 PM
+  Started : Monday, November 10, 2025 11:50:46 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
 
@@ -433,10 +433,10 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  188452	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_Broken.GR2100%  
 	    New File  		  188720	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_Broken_2.GR2100%  
 	    New File  		  105388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_Clean.GR2100%  
-	    New File  		   93272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Chin\DGB_M_Chin_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Chin_MC.GR2100%  
 	    New File  		  627348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_Broken_L.GR2100%  
 	    New File  		  626776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_Broken_R.GR2100%  
 	    New File  		  426204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_Clean.GR2100%  
+	    New File  		   93272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Chin\DGB_M_Chin_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Chin_MC.GR2100%  
 	    New File  		  667128	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_Broken_L.GR2100%  
 	    New File  		     273	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_Broken_L.xml100%  
 	    New File  		  667128	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_Broken_R.GR2100%  
@@ -481,9 +481,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           819271086 Bytes/sec.
-   Speed :           46879.067 MegaBytes/min.
-   Ended : Monday, November 10, 2025 8:30:33 PM
+   Speed :           2500932789 Bytes/sec.
+   Speed :           143104.522 MegaBytes/min.
+   Ended : Monday, November 10, 2025 11:50:46 PM
 
  
 [DEBUG] Counting source files 
@@ -509,7 +509,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, November 10, 2025 8:30:34 PM
+  Started : Monday, November 10, 2025 11:50:47 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
 
@@ -546,9 +546,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           128383555 Bytes/sec.
-   Speed :            7346.165 MegaBytes/min.
-   Ended : Monday, November 10, 2025 8:30:34 PM
+   Speed :           385150666 Bytes/sec.
+   Speed :           22038.497 MegaBytes/min.
+   Ended : Monday, November 10, 2025 11:50:47 PM
 
  
 [DEBUG] Counting source files 
