@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c 
-   Mon 05/19/2025  7:32:15.17 
+   Mon 11/10/2025 20:30:15.14 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -23,7 +23,8 @@ Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\R
 Files found: 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationIconSettings.tbl 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c: 2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreationPresets\CharacterCreationMaterialOverrides.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c: 3 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c 
  
@@ -103,6 +104,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Jaw\DGB_M_NKD_Head_D_EL_Jaw_MD_NM.DDS 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationIconSettings.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\1036c4a1-d94c-4272-9304-6e2db5981dcf.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\1088cc7d-397d-4664-9ced-f8cbf7756626.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\11f1eb07-c276-2a77-272b-75e1e9d3ec7c.lsf 
@@ -117,8 +119,10 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\3e25c5fa-c107-4d26-822d-d0a1e4f36469.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\3e6081b4-d9fd-4e74-a177-157b97c5b4af.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\473132fb-8c04-2206-105a-0884294108a8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\50c5ed35-f570-61fb-0405-6beff0585150.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\50f0ef03-5002-d8b8-015a-9d165d3b4452.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\53126b48-5b73-a072-b8d1-446ca70951a4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\65b5802c-2dc6-514d-cbbb-c386590ef56f.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\678f9fab-1e9a-428f-b361-ed7f1418c5bf.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\6bfdd72f-d6d3-d86e-42c0-ec2ec1342f64.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\76c6f4d1-5a9e-4628-8c21-b2dbc7ece2d9.lsf 
@@ -146,9 +150,10 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\e04e61e0-5d69-de9c-dca6-2d5b3857e6ac.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\e9a37c96-df2a-5070-e17e-02d4bb13907c.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\eeb8c6cc-d7d5-87b1-51d4-5a5277e42bb4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\ef4413f2-3bda-9b6e-9feb-2f4df4e77d19.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\f8045799-b327-affe-c1c2-a27728ea56f3.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\GUI\RathB_2_Atlas.lsx 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c: 111 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c: 115 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c 
  
@@ -172,7 +177,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Jaw_Spikes_MG.GR2 
 Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c: 17 
  
-[LOG] Total files found across all folders: 136 
+[LOG] Total files found across all folders: 141 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -188,7 +193,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:32:18 AM
+  Started : Monday, November 10, 2025 8:30:27 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Projects\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
 
@@ -199,7 +204,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     699	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\meta.lsx100%  
-	    New File  		   6.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\thumbnail.png  0%  100%  
+	    New File  		   6.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\thumbnail.png 14%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -210,9 +215,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           7196556000 Bytes/sec.
-   Speed :           411790.237 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:32:18 AM
+   Speed :           3598278000 Bytes/sec.
+   Speed :           205895.118 MegaBytes/min.
+   Ended : Monday, November 10, 2025 8:30:27 PM
 
  
 [DEBUG] Counting source files 
@@ -238,7 +243,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:32:20 AM
+  Started : Monday, November 10, 2025 8:30:29 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
 
@@ -248,29 +253,30 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		  175556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+	    New File  		  175556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 	    New File  		    3057	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationIconSettings.tbl100%  
+	    New File  		    3363	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreationPresets\CharacterCreationMaterialOverrides.tbl100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         2         2         1         0         0         0
-   Files :         2         2         0         0         0         0
-   Bytes :   174.4 k   174.4 k         0         0         0         0
+    Dirs :         7         7         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :   177.7 k   177.7 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           178613000 Bytes/sec.
-   Speed :           10220.317 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:32:20 AM
+   Speed :            90988000 Bytes/sec.
+   Speed :            5206.375 MegaBytes/min.
+   Ended : Monday, November 10, 2025 8:30:29 PM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 2 
-[DEBUG] Successfully copied files: 2 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c: 
-      Total files: 2 
-      Copied successfully: 2 
+      Total files: 3 
+      Copied successfully: 3 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -288,7 +294,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:32:22 AM
+  Started : Monday, November 10, 2025 8:30:31 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
 
@@ -298,7 +304,7 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		    4929	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\meta.lsx100%  
+	    New File  		    4930	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\meta.lsx100%  
 	    New File  		   6.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\mod_publish_logo.png  0%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\GUI\metadata.lsf100%  
 	    New File  		   14222	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Localization\English\english.xml100%  
@@ -312,9 +318,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           2405383000 Bytes/sec.
-   Speed :           137637.119 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:32:22 AM
+   Speed :           3608075000 Bytes/sec.
+   Speed :           206455.707 MegaBytes/min.
+   Ended : Monday, November 10, 2025 8:30:31 PM
 
  
 [DEBUG] Counting source files 
@@ -340,7 +346,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:32:23 AM
+  Started : Monday, November 10, 2025 8:30:32 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
 
@@ -352,6 +358,7 @@ SECTION 2: COPY OPERATIONS
 
 	    New File  		  124809	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
 	    New File  		    4612	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationIconSettings.lsx100%  
+	    New File  		    2849	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx100%  
 	    New File  		    8650	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\GUI\RathB_2_Atlas.lsx100%  
 	    New File  		    2751	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\1036c4a1-d94c-4272-9304-6e2db5981dcf.lsf100%  
 	    New File  		    3886	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\1088cc7d-397d-4664-9ced-f8cbf7756626.lsf100%  
@@ -367,8 +374,10 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2751	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\3e25c5fa-c107-4d26-822d-d0a1e4f36469.lsf100%  
 	    New File  		    3886	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\3e6081b4-d9fd-4e74-a177-157b97c5b4af.lsf100%  
 	    New File  		    1573	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\473132fb-8c04-2206-105a-0884294108a8.lsf100%  
+	    New File  		   14010	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\50c5ed35-f570-61fb-0405-6beff0585150.lsf100%  
 	    New File  		    1666	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\50f0ef03-5002-d8b8-015a-9d165d3b4452.lsf100%  
 	    New File  		    1675	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\53126b48-5b73-a072-b8d1-446ca70951a4.lsf100%  
+	    New File  		   14013	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\65b5802c-2dc6-514d-cbbb-c386590ef56f.lsf100%  
 	    New File  		    2719	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\678f9fab-1e9a-428f-b361-ed7f1418c5bf.lsf100%  
 	    New File  		   14010	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\6bfdd72f-d6d3-d86e-42c0-ec2ec1342f64.lsf100%  
 	    New File  		    2762	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\76c6f4d1-5a9e-4628-8c21-b2dbc7ece2d9.lsf100%  
@@ -396,6 +405,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    1669	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\e04e61e0-5d69-de9c-dca6-2d5b3857e6ac.lsf100%  
 	    New File  		   14007	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\e9a37c96-df2a-5070-e17e-02d4bb13907c.lsf100%  
 	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\eeb8c6cc-d7d5-87b1-51d4-5a5277e42bb4.lsf100%  
+	    New File  		   14013	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\ef4413f2-3bda-9b6e-9feb-2f4df4e77d19.lsf100%  
 	    New File  		    1672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\[PAK]_Rathgor-Reforged_head\f8045799-b327-affe-c1c2-a27728ea56f3.lsf100%  
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\Textures\Icons\RathB_2_Atlas.dds100%  
 	    New File  		  699192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Jaw\DGB_M_NKD_Head_D_EL_Jaw_EL_MD_DMSK.DDS100%  
@@ -411,7 +421,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_L_MSK.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_L_NM.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_R_CTLO.DDS100%  
-	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_R_HMVY.DDS 84%  100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_R_HMVY.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_R_MSK.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_R_NM.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_C_CTLO.DDS100%  
@@ -449,7 +459,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Jaw_Spikes_FD.xml100%  
 	    New File  		  184904	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Jaw_Spikes_MC.GR2100%  
 	    New File  		     272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Jaw_Spikes_MC.xml100%  
-	    New File  		  192048	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Jaw_Spikes_MD.GR2  0%  100%  
+	    New File  		  192048	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Jaw_Spikes_MD.GR2100%  
 	    New File  		     272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Jaw_Spikes_MD.xml100%  
 	    New File  		  231344	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Jaw_Spikes_ME.GR2100%  
 	    New File  		     272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Jaw_Spikes_ME.xml100%  
@@ -465,23 +475,23 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :        35        35         1         0         0         0
-   Files :       111       111         0         0         0         0
-   Bytes :   90.59 m   90.59 m         0         0         0         0
-   Times :   0:00:02   0:00:00                       0:00:00   0:00:00
+    Dirs :        36        36         1         0         0         0
+   Files :       115       115         0         0         0         0
+   Bytes :   90.63 m   90.63 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           277750178 Bytes/sec.
-   Speed :           15892.992 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:32:24 AM
+   Speed :           819271086 Bytes/sec.
+   Speed :           46879.067 MegaBytes/min.
+   Ended : Monday, November 10, 2025 8:30:33 PM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 111 
-[DEBUG] Successfully copied files: 111 
+[DEBUG] Total files counted: 115 
+[DEBUG] Successfully copied files: 115 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c: 
-      Total files: 111 
-      Copied successfully: 111 
+      Total files: 115 
+      Copied successfully: 115 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -499,7 +509,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:32:25 AM
+  Started : Monday, November 10, 2025 8:30:34 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
 
@@ -536,9 +546,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           135935529 Bytes/sec.
-   Speed :            7778.293 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:32:25 AM
+   Speed :           128383555 Bytes/sec.
+   Speed :            7346.165 MegaBytes/min.
+   Ended : Monday, November 10, 2025 8:30:34 PM
 
  
 [DEBUG] Counting source files 
@@ -563,7 +573,7 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 2 
+[LOG] Files copied by xcopy: 3 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
@@ -571,7 +581,7 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 111 
+[LOG] Files copied by xcopy: 115 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
@@ -580,8 +590,8 @@ SECTION 4: FINAL SUMMARY
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 136 
-[SUMMARY] Total files successfully copied: 272 
+[SUMMARY] Total files found: 141 
+[SUMMARY] Total files successfully copied: 282 
  
 [SUMMARY] All files were copied successfully 
  
