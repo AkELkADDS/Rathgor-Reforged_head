@@ -391,7 +391,7 @@
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf4b0dcd0g90a3g350ag7886gdeefbd6634b2" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="15daae8f-8242-40f1-a7fe-0f13671a7868"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Rath_Jaw_MD_NestONeedles_Rath"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Rath_Jaw_MD_NestONeedles_Short"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="dae03192-2740-49c5-bbd5-0a1205a6a59a"/>
@@ -578,7 +578,7 @@
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="ha55311bdga328g9adbge9edgead9b9ec23d2" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="0004d552-4c04-4ce0-b690-39743baababf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Rath_Jaw_MD_NestONeedles_Rath"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Rath_Jaw_MD_NestONeedles_Short"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="58c635d4-66c8-4538-8420-e63d8a2bb770"/>
@@ -765,7 +765,7 @@
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hed8c887ag019eg097cg490bgd884ea282ed3" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="20eb7556-6833-469b-8de2-b8e130399593"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Rath_Jaw_MD_NestONeedles_Rath"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Rath_Jaw_MD_NestONeedles_Short"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="53acdeff-7088-4f40-8bea-30d255b90014"/>

@@ -535,7 +535,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b550eff8-ac64-4c4d-92b0-e25409530774" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf4b0dcd0g90a3g350ag7886gdeefbd6634b2" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_E_Rath_Jaw_Spikes_MD_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_MD_NestONeedles_Rath" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_MD_NestONeedles_Short" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -790,7 +790,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b550eff8-ac64-4c4d-92b0-e25409530774" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha55311bdga328g9adbge9edgead9b9ec23d2" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_E_Rath_Jaw_Spikes_MD_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_MD_NestONeedles_Rath" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_MD_NestONeedles_Short" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1045,7 +1045,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b550eff8-ac64-4c4d-92b0-e25409530774" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hed8c887ag019eg097cg490bgd884ea282ed3" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_E_Rath_Jaw_Spikes_MD_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_MD_NestONeedles_Rath" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_MD_NestONeedles_Short" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
