@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <content contentuid="h640ad9ccg7ce8gbcecg827bgab702e538951" version="1">Rathgor Broken R</content>
-  <content contentuid="h86817c79g74b7g4bf3g1792g9a8ba8e7b49d" version="1">Rathgor Clean</content>
-  <content contentuid="h684316c8gb831g618egfaa2g9053f761f145" version="1">Rathgor Broken L</content>
+  <content contentuid="h640ad9ccg7ce8gbcecg827bgab702e538951" version="2">Rathgor Scarred R</content>
+  <content contentuid="h86817c79g74b7g4bf3g1792g9a8ba8e7b49d" version="2">Rathgor</content>
+  <content contentuid="h684316c8gb831g618egfaa2g9053f761f145" version="2">Rathgor Scarred L</content>
   <content contentuid="h4246e018ge685g1b2cg64e0gb95c31bcd4b3" version="1">Reforged Clean</content>
   <content contentuid="h365a65b1gdde0gd4adg5085g272c0cb4de31" version="3">Reforged Crest Broken Black L</content>
   <content contentuid="h61ac673dg10fegbc7eg6dcfgc76a7e186c66" version="3">Reforged Crest Broken Black R</content>
@@ -166,4 +166,12 @@
   <content contentuid="hed8c887ag019eg097cg490bgd884ea282ed3" version="1">Nest o' Needles Short</content>
   <content contentuid="hf7b6794fg3f78g7303gfaf2gc724d9777ab0" version="1">Dragonglass Short</content>
   <content contentuid="h85c7200fg5ba5ga35cg6bf3g374aafb68470" version="1">Royal Plateau Short</content>
+  <content contentuid="head1cd49g9649ga45egc195ga5219e970c59" version="3">Krothar A</content>
+  <content contentuid="h1f24d4ebg035eg1abdgb14cge6de6621e5f0" version="1">No Jaw attachment</content>
+  <content contentuid="h757fbe7bg1495g4d90gaabegf03f34c47ff1" version="1">No Chin attachment</content>
+  <content contentuid="he8f3dd12g4efag4113g52a7g28ceca363d2c" version="1">No Crest</content>
+  <content contentuid="h796e68a1g717fg6dfeg863cg17d249142a94" version="1">Krothar B</content>
+  <content contentuid="h9603b8fdg4c5fgbbe7gc578g65acaa926ff0" version="1">No Jaw attachment</content>
+  <content contentuid="hbfc1ddb7g0c62g7d6eg613eg230da9dd3713" version="1">No Chin attachment</content>
+  <content contentuid="h1067575cg827cg77e0g8cf8g655b72a91a69" version="1">No Crest</content>
 </contentList>
