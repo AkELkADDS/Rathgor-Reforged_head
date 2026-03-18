@@ -166,11 +166,11 @@
   <content contentuid="hed8c887ag019eg097cg490bgd884ea282ed3" version="1">Nest o' Needles Short</content>
   <content contentuid="hf7b6794fg3f78g7303gfaf2gc724d9777ab0" version="1">Dragonglass Short</content>
   <content contentuid="h85c7200fg5ba5ga35cg6bf3g374aafb68470" version="1">Royal Plateau Short</content>
-  <content contentuid="head1cd49g9649ga45egc195ga5219e970c59" version="3">Krothar A</content>
+  <content contentuid="head1cd49g9649ga45egc195ga5219e970c59" version="4">Krothar B</content>
   <content contentuid="h1f24d4ebg035eg1abdgb14cge6de6621e5f0" version="1">No Jaw attachment</content>
   <content contentuid="h757fbe7bg1495g4d90gaabegf03f34c47ff1" version="1">No Chin attachment</content>
   <content contentuid="he8f3dd12g4efag4113g52a7g28ceca363d2c" version="1">No Crest</content>
-  <content contentuid="h796e68a1g717fg6dfeg863cg17d249142a94" version="1">Krothar B</content>
+  <content contentuid="h796e68a1g717fg6dfeg863cg17d249142a94" version="2">Krothar A</content>
   <content contentuid="h9603b8fdg4c5fgbbe7gc578g65acaa926ff0" version="1">No Jaw attachment</content>
   <content contentuid="hbfc1ddb7g0c62g7d6eg613eg230da9dd3713" version="1">No Chin attachment</content>
   <content contentuid="h1067575cg827cg77e0g8cf8g655b72a91a69" version="1">No Crest</content>
@@ -275,4 +275,12 @@
   <content contentuid="h072b26b9g116eg00f0g41c6gb80e68523b15" version="1">Pinnacle</content>
   <content contentuid="ha792a872gfdecgc467ge8acg4957f83c6bb6" version="1">Apogee</content>
   <content contentuid="h9f2d8c03g513ag7369gc072g1f842508ffb1" version="1">Hatchet Spike</content>
+  <content contentuid="h32d91ed7g3d29gcc1bgfdfeg895be470bf25" version="1">Goatee</content>
+  <content contentuid="h16a6d6e3g1ec5gd5a1g33adg1f66fb782dc5" version="1">Goatee</content>
+  <content contentuid="ha7a624bbg2f05g219cgfe85gd3627058507d" version="1">No Chin attachment</content>
+  <content contentuid="h2918808fga361ga750g254dg809193b25f44" version="1">No Jaw attachment</content>
+  <content contentuid="h79f8143fgb746g671dg0333g3a980b24cefe" version="1">No Crest</content>
+  <content contentuid="h15add9c0gbbaegc841gd5fcg7f9a9e06cc3a" version="1">No Crest</content>
+  <content contentuid="he59cc9fdg9e80g0184gfa3cg6c5d76ea7842" version="1">No Jaw attachment</content>
+  <content contentuid="h0fb3bf65gbf3fg884ag1198gca47184865c7" version="1">No Chin attachment</content>
 </contentList>
