@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c 
-   Wed 03/18/2026  4:23:24.58 
+   Wed 03/18/2026 18:18:52.50 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -105,9 +105,49 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationIconSettings.lsx 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\01da92e2-b720-4929-b74d-2e6299232dda.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\03f2f6a8-a6eb-4f2c-a701-20d5d46a98f6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\04ae69b9-656a-4341-a2c7-41f742a31f3e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\11105697-99f9-4e64-8c0d-5c45785f5e80.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\167a9b91-5aaf-4db8-b0d0-b61b0355307e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\17b4a640-5df9-4628-839b-e860d2e75eb9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\210c3600-7a2b-49fa-9aba-b16429d26e71.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\2269ae9d-8197-4d4e-baac-94b23f7e3da4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\24e6ddf8-b137-4cac-8823-a87e66fc273a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\26417d8c-5b38-408a-89f9-ff5083f320bc.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\363a1cec-8d33-4cc5-91e8-c97157d8b914.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\386ceaae-c473-48a9-b771-f716041a3839.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\3eddcf2f-3c2e-420a-89d4-25e20a8d8889.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\45382264-4047-4d16-b74c-2cc503ba0b14.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\4e3fd4e0-a031-45d3-9fb1-50528246279e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\532d121f-cf09-441e-9fb8-04f80687b87b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\565e98bc-4eee-468a-ae67-5ef8c5db0dd2.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\5e81793f-c96a-95fb-42b7-acc93ad3add8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\67e0e0ea-3fa1-46f2-b428-8984ad100f71.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\74200fe7-84fa-4d8a-b7d9-897a500dc4ac.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\74f0cbd8-d136-4ad1-8a7d-6b34d20239c7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\7ec7e2f1-a9d2-4946-80ea-e98abca0e816.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\888d460e-979c-4669-8c96-095165592ce1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\8ebaf9a0-5bc9-4a7f-b9f6-3b31008aec65.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\918b5739-fb45-4317-86d1-9823368211e8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\98ccd4df-6746-452c-9314-2b4357af11f3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\a51ab11d-933a-49ac-8b4e-f333ada30377.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\a5881d7d-1a6d-435b-a986-d4134d3d8bbe.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\a7b73481-4868-4668-bfd4-a9c95ef251d8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\ad10faef-7466-43b7-a5d2-1866f46078d1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\bf63b2df-b0c9-413a-84c0-06abb92501cc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\c7246405-5078-4de9-ac59-731113702f5d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\cc3168f5-7e4b-4fda-aee1-ecb842d1cbb8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\ccfa944f-948e-4510-bc56-99eaf25d8e1a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\ceb614a8-cfea-443c-acbb-054aa9bf7abf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\cf3a3faa-208e-40ed-b1f0-4539fa56a2e2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\d5034f59-d180-43bb-9dc1-5f7720e42430.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\d60d2b4d-abf6-4e95-af9b-deba49ffebe1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\d83dc5b1-000a-4d3d-a301-84018161e61d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\dac99588-56fb-4ce3-818c-67d85ae4e7c8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\dbd824e6-9b4c-426f-bd0c-5ed331e8987d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\dd0fd97f-acc7-4d91-bfd5-ec5098e4c898.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\de3fd005-ccd0-412c-95c8-e149a769a69a.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Rathgor\1036c4a1-d94c-4272-9304-6e2db5981dcf.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Rathgor\1088cc7d-397d-4664-9ced-f8cbf7756626.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Rathgor\11f1eb07-c276-2a77-272b-75e1e9d3ec7c.lsf 
@@ -162,8 +202,88 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Rathgor\eeb8c6cc-d7d5-87b1-51d4-5a5277e42bb4.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Rathgor\ef4413f2-3bda-9b6e-9feb-2f4df4e77d19.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Rathgor\f8045799-b327-affe-c1c2-a27728ea56f3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FB.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FE.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FE.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MF.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MG.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MG.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FB.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FE.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FE.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MB.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MF.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MG.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MG.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Head\DGB_M_NKD_Head_Krothar.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Head\DGB_M_NKD_Head_Krothar.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FB.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FD_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FD_B.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FE.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FE.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MA_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MA_B.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MC_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MC_B.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_ME_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_ME_B.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MF.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MF_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MF_B.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MG.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MG.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\GUI\RathB_2_Atlas.lsx 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_Rath_Top_NoCrest.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_Rath_Top_NoCrest.xml 
@@ -179,7 +299,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Rath_Jaw_Spikes_ME_B.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Rath_Jaw_Spikes_MF_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Rath_Jaw_Spikes_MF_B.xml 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c: 141 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c: 261 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c 
  
@@ -201,8 +321,48 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Rath_Jaw_Spikes_MF_L.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Rath_Jaw_Spikes_MF_R.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Rath_Jaw_Spikes_MG.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FE.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MG.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FE.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MG.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Head\DGB_M_NKD_Head_Krothar.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Head\DGB_M_NKD_Head_Krothar_Base.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FD_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FE.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MA_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MC_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_ME_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MF_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MG.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_Rath_Top_NoCrest.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Rath_Jaw_Scales_MA_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Rath_Jaw_Spikes_FD_B.GR2 
@@ -210,9 +370,9 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Rath_Jaw_Spikes_MD_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Rath_Jaw_Spikes_ME_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Jaw\DGB_M_Jaw_E_EL_Reforged_Vanilla\DGB_M_NKD_Head_E_Rath_Jaw_Spikes_MF_B.GR2 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c: 26 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c: 66 
  
-[LOG] Total files found across all folders: 176 
+[LOG] Total files found across all folders: 336 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -228,7 +388,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, March 18, 2026 4:23:27 AM
+  Started : Wednesday, March 18, 2026 6:18:56 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Projects\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
 
@@ -239,7 +399,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     699	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\meta.lsx100%  
-	    New File  		   6.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\thumbnail.png  0%  100%  
+	    New File  		   6.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\thumbnail.png  7%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -250,9 +410,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           143931120 Bytes/sec.
-   Speed :            8235.804 MegaBytes/min.
-   Ended : Wednesday, March 18, 2026 4:23:27 AM
+   Speed :           7196556000 Bytes/sec.
+   Speed :           411790.237 MegaBytes/min.
+   Ended : Wednesday, March 18, 2026 6:18:56 PM
 
  
 [DEBUG] Counting source files 
@@ -278,7 +438,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, March 18, 2026 4:23:29 AM
+  Started : Wednesday, March 18, 2026 6:18:57 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
 
@@ -288,7 +448,7 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		  222802	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+	    New File  		  287511	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 	    New File  		    3057	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationIconSettings.tbl100%  
 	    New File  		    3363	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreationPresets\CharacterCreationMaterialOverrides.tbl100%  
 
@@ -297,13 +457,13 @@ SECTION 2: COPY OPERATIONS
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         7         7         1         0         0         0
    Files :         3         3         0         0         0         0
-   Bytes :   223.8 k   223.8 k         0         0         0         0
+   Bytes :   287.0 k   287.0 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           229222000 Bytes/sec.
-   Speed :           13116.188 MegaBytes/min.
-   Ended : Wednesday, March 18, 2026 4:23:29 AM
+   Speed :           293931000 Bytes/sec.
+   Speed :           16818.866 MegaBytes/min.
+   Ended : Wednesday, March 18, 2026 6:18:58 PM
 
  
 [DEBUG] Counting source files 
@@ -329,7 +489,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, March 18, 2026 4:23:30 AM
+  Started : Wednesday, March 18, 2026 6:18:59 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
 
@@ -342,7 +502,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   11888	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\meta.lsx100%  
 	    New File  		   6.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\GUI\metadata.lsf100%  
-	    New File  		   17628	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Localization\English\english.xml100%  
+	    New File  		   23204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Localization\English\english.xml100%  
 
 ------------------------------------------------------------------------------
 
@@ -353,9 +513,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           3613257000 Bytes/sec.
-   Speed :           206752.223 MegaBytes/min.
-   Ended : Wednesday, March 18, 2026 4:23:30 AM
+   Speed :           3616045000 Bytes/sec.
+   Speed :           206911.754 MegaBytes/min.
+   Ended : Wednesday, March 18, 2026 6:18:59 PM
 
  
 [DEBUG] Counting source files 
@@ -381,7 +541,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, March 18, 2026 4:23:32 AM
+  Started : Wednesday, March 18, 2026 6:19:01 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
 
@@ -391,14 +551,54 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		  159406	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		  204106	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
 	    New File  		    4612	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreation\CharacterCreationIconSettings.lsx100%  
 	    New File  		    2849	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx100%  
 	    New File  		   22783	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\GUI\RathB_2_Atlas.lsx100%  
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\Textures\Icons\RathB_2_Atlas.dds100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\01da92e2-b720-4929-b74d-2e6299232dda.lsf100%  
+	    New File  		    2602	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\03f2f6a8-a6eb-4f2c-a701-20d5d46a98f6.lsf100%  
+	    New File  		    2599	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\04ae69b9-656a-4341-a2c7-41f742a31f3e.lsf100%  
+	    New File  		    2602	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\11105697-99f9-4e64-8c0d-5c45785f5e80.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\167a9b91-5aaf-4db8-b0d0-b61b0355307e.lsf100%  
+	    New File  		    2599	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\17b4a640-5df9-4628-839b-e860d2e75eb9.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\210c3600-7a2b-49fa-9aba-b16429d26e71.lsf100%  
+	    New File  		    2599	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\2269ae9d-8197-4d4e-baac-94b23f7e3da4.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\24e6ddf8-b137-4cac-8823-a87e66fc273a.lsf100%  
+	    New File  		    2655	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\26417d8c-5b38-408a-89f9-ff5083f320bc.lsf100%  
 	    New File  		    3712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\363a1cec-8d33-4cc5-91e8-c97157d8b914.lsf100%  
+	    New File  		    2602	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\386ceaae-c473-48a9-b771-f716041a3839.lsf100%  
+	    New File  		    2655	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\3eddcf2f-3c2e-420a-89d4-25e20a8d8889.lsf100%  
+	    New File  		    2599	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\45382264-4047-4d16-b74c-2cc503ba0b14.lsf100%  
+	    New File  		    2655	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\4e3fd4e0-a031-45d3-9fb1-50528246279e.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\532d121f-cf09-441e-9fb8-04f80687b87b.lsf100%  
+	    New File  		    2597	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\565e98bc-4eee-468a-ae67-5ef8c5db0dd2.lsf100%  
 	    New File  		    2568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\5e81793f-c96a-95fb-42b7-acc93ad3add8.lsf100%  
+	    New File  		    2602	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\67e0e0ea-3fa1-46f2-b428-8984ad100f71.lsf100%  
+	    New File  		    2655	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\74200fe7-84fa-4d8a-b7d9-897a500dc4ac.lsf100%  
+	    New File  		    2654	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\74f0cbd8-d136-4ad1-8a7d-6b34d20239c7.lsf100%  
+	    New File  		    2599	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\7ec7e2f1-a9d2-4946-80ea-e98abca0e816.lsf100%  
+	    New File  		    2602	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\888d460e-979c-4669-8c96-095165592ce1.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\8ebaf9a0-5bc9-4a7f-b9f6-3b31008aec65.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\918b5739-fb45-4317-86d1-9823368211e8.lsf100%  
+	    New File  		    2835	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\98ccd4df-6746-452c-9314-2b4357af11f3.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\a51ab11d-933a-49ac-8b4e-f333ada30377.lsf100%  
 	    New File  		    3712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\a5881d7d-1a6d-435b-a986-d4134d3d8bbe.lsf100%  
+	    New File  		    2649	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\a7b73481-4868-4668-bfd4-a9c95ef251d8.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\ad10faef-7466-43b7-a5d2-1866f46078d1.lsf100%  
+	    New File  		    2597	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\bf63b2df-b0c9-413a-84c0-06abb92501cc.lsf100%  
+	    New File  		    2602	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\c7246405-5078-4de9-ac59-731113702f5d.lsf100%  
+	    New File  		    2602	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\cc3168f5-7e4b-4fda-aee1-ecb842d1cbb8.lsf100%  
+	    New File  		    2599	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\ccfa944f-948e-4510-bc56-99eaf25d8e1a.lsf100%  
+	    New File  		    2655	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\ceb614a8-cfea-443c-acbb-054aa9bf7abf.lsf100%  
+	    New File  		    2829	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\cf3a3faa-208e-40ed-b1f0-4539fa56a2e2.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\d5034f59-d180-43bb-9dc1-5f7720e42430.lsf100%  
+	    New File  		    2602	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\d60d2b4d-abf6-4e95-af9b-deba49ffebe1.lsf100%  
+	    New File  		    2655	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\d83dc5b1-000a-4d3d-a301-84018161e61d.lsf100%  
+	    New File  		    2602	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\dac99588-56fb-4ce3-818c-67d85ae4e7c8.lsf100%  
+	    New File  		    2655	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\dbd824e6-9b4c-426f-bd0c-5ed331e8987d.lsf100%  
+	    New File  		    2655	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\dd0fd97f-acc7-4d91-bfd5-ec5098e4c898.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Krothar\de3fd005-ccd0-412c-95c8-e149a769a69a.lsf100%  
 	    New File  		    2766	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Rathgor\1036c4a1-d94c-4272-9304-6e2db5981dcf.lsf100%  
 	    New File  		    4007	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Rathgor\1088cc7d-397d-4664-9ced-f8cbf7756626.lsf100%  
 	    New File  		    1672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Content\Reforged_Heads\[PAK]_Rathgor\11f1eb07-c276-2a77-272b-75e1e9d3ec7c.lsf100%  
@@ -458,25 +658,105 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Jaw\DGB_M_NKD_Head_D_EL_Jaw_MD_HMVY.DDS100%  
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Jaw\DGB_M_NKD_Head_D_EL_Jaw_MD_MSK.DDS100%  
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Jaw\DGB_M_NKD_Head_D_EL_Jaw_MD_NM.DDS100%  
+	    New File  		   57368	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FA.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FA.xml100%  
+	    New File  		   59772	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FB.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FB.xml100%  
+	    New File  		   64220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FC.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FC.xml100%  
+	    New File  		   87944	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FD.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FD.xml100%  
+	    New File  		   81476	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FE.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FE.xml100%  
+	    New File  		   57692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MA.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MA.xml100%  
+	    New File  		   93316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MC.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MC.xml100%  
+	    New File  		  116128	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MD.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MD.xml100%  
+	    New File  		   63448	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_ME.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_ME.xml100%  
+	    New File  		   63532	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MF.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MF.xml100%  
+	    New File  		   76280	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MG.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MG.xml100%  
+	    New File  		  336564	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FA.GR2100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FA.xml100%  
+	    New File  		  636208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FB.GR2100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FB.xml100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FC.GR2100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FC.xml100%  
+	    New File  		  479020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FD.GR2100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FD.xml100%  
+	    New File  		  849968	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FE.GR2100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FE.xml100%  
+	    New File  		  282228	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA.GR2100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA.xml100%  
+	    New File  		  272668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MB.GR2100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MB.xml100%  
+	    New File  		  399908	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MC.GR2100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MC.xml100%  
+	    New File  		  854168	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MD.GR2100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MD.xml100%  
+	    New File  		  603860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_ME.GR2100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_ME.xml100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MF.GR2 18%  100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MF.xml100%  
+	    New File  		  341828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MG.GR2100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MG.xml100%  
 	    New File  		  668880	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Head\DGB_M_NKD_Head_Krothar.GR2100%  
 	    New File  		     189	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Head\DGB_M_NKD_Head_Krothar.xml100%  
+	    New File  		  145356	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FA.GR2100%  
+	    New File  		     195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FA.xml100%  
+	    New File  		   99356	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FB.GR2100%  
+	    New File  		     195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FB.xml100%  
+	    New File  		  258396	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FC.GR2100%  
+	    New File  		     195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FC.xml100%  
+	    New File  		  256520	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FD.GR2100%  
+	    New File  		     195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FD.xml100%  
+	    New File  		  180828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FD_B.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FD_B.xml100%  
+	    New File  		  113104	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FE.GR2100%  
+	    New File  		     195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FE.xml100%  
+	    New File  		  197228	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MA.GR2100%  
+	    New File  		     195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MA.xml100%  
+	    New File  		  157536	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MA_B.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MA_B.xml100%  
+	    New File  		  179344	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MC.GR2100%  
+	    New File  		     195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MC.xml100%  
+	    New File  		  141688	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MC_B.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MC_B.xml100%  
+	    New File  		  186428	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD.GR2100%  
+	    New File  		     195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD.xml100%  
+	    New File  		  154392	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B.xml100%  
+	    New File  		  218640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_ME.GR2100%  
+	    New File  		     195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_ME.xml100%  
+	    New File  		  166768	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_ME_B.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_ME_B.xml100%  
+	    New File  		  176036	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MF.GR2100%  
+	    New File  		     195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MF.xml100%  
+	    New File  		  140080	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MF_B.GR2100%  
+	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MF_B.xml100%  
+	    New File  		  202536	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MG.GR2100%  
+	    New File  		     195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MG.xml100%  
 	    New File  		   48828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Skeleton\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_SK_Base.GR2100%  
-	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_L_CTLO.DDS 84%  100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_L_CTLO.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_L_DB_DMSK.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_L_DMSK.DDS100%  
-	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_L_HMVY.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_L_HMVY.DDS 56%  100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_L_MSK.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_L_NM.DDS100%  
-	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_R_CTLO.DDS 84%  100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_R_CTLO.DDS 56%  100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_R_HMVY.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_R_MSK.DDS100%  
-	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_R_NM.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_B_R_NM.DDS 84%  100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_C_CTLO.DDS100%  
-	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_C_DB_DMSK.DDS 56%  100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_C_DB_DMSK.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_C_DMSK.DDS100%  
-	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_C_HMVY.DDS 93%  100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_C_HMVY.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_C_MSK.DDS100%  
-	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_C_NM.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Assets\_Male\Textures\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_C_NM.DDS 56%  100%  
 	    New File  		  188452	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_Broken.GR2100%  
 	    New File  		  188720	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_Broken_2.GR2100%  
 	    New File  		  105388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Body\_Male\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_Clean.GR2100%  
@@ -536,23 +816,23 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :        53        53         1         0         0         0
-   Files :       141       141         0         0         0         0
-   Bytes :   92.31 m   92.31 m         0         0         0         0
+    Dirs :        56        56         1         0         0         0
+   Files :       261       261         0         0         0         0
+   Bytes :  103.28 m  103.28 m         0         0         0         0
    Times :   0:00:07   0:00:01                       0:00:00   0:00:00
 
 
-   Speed :            81890975 Bytes/sec.
-   Speed :            4685.839 MegaBytes/min.
-   Ended : Wednesday, March 18, 2026 4:23:34 AM
+   Speed :            84547284 Bytes/sec.
+   Speed :            4837.834 MegaBytes/min.
+   Ended : Wednesday, March 18, 2026 6:19:03 PM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 141 
-[DEBUG] Successfully copied files: 141 
+[DEBUG] Total files counted: 261 
+[DEBUG] Successfully copied files: 261 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c: 
-      Total files: 141 
-      Copied successfully: 141 
+      Total files: 261 
+      Copied successfully: 261 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -570,7 +850,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, March 18, 2026 4:23:35 AM
+  Started : Wednesday, March 18, 2026 6:19:04 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\
 
@@ -580,8 +860,48 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
+	    New File  		   57368	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FA.GR2100%  
+	    New File  		   59772	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FB.GR2100%  
+	    New File  		   64220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FC.GR2100%  
+	    New File  		   87944	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FD.GR2100%  
+	    New File  		   81476	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_FE.GR2100%  
+	    New File  		   57692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MA.GR2100%  
+	    New File  		   93316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MC.GR2100%  
+	    New File  		  116128	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MD.GR2100%  
+	    New File  		   63448	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_ME.GR2100%  
+	    New File  		   63532	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MF.GR2100%  
+	    New File  		   76280	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Chin\DGB_M_NKD_Head_Krothar_Chin_MG.GR2100%  
+	    New File  		  336564	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FA.GR2100%  
+	    New File  		  636208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FB.GR2100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FC.GR2100%  
+	    New File  		  479020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FD.GR2100%  
+	    New File  		  849968	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_FE.GR2100%  
+	    New File  		  282228	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MA.GR2100%  
+	    New File  		  272668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MB.GR2100%  
+	    New File  		  399908	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MC.GR2100%  
+	    New File  		  854168	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MD.GR2100%  
+	    New File  		  603860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_ME.GR2100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MF.GR2100%  
+	    New File  		  341828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_MG.GR2100%  
 	    New File  		  668880	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Head\DGB_M_NKD_Head_Krothar.GR2100%  
 	    New File  		   48620	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Head\DGB_M_NKD_Head_Krothar_Base.GR2100%  
+	    New File  		  145356	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FA.GR2100%  
+	    New File  		   99356	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FB.GR2100%  
+	    New File  		  258396	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FC.GR2100%  
+	    New File  		  256520	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FD.GR2100%  
+	    New File  		  180828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FD_B.GR2100%  
+	    New File  		  113104	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_FE.GR2100%  
+	    New File  		  197228	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MA.GR2100%  
+	    New File  		  157536	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MA_B.GR2100%  
+	    New File  		  179344	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MC.GR2100%  
+	    New File  		  141688	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MC_B.GR2100%  
+	    New File  		  186428	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD.GR2100%  
+	    New File  		  154392	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MD_B.GR2100%  
+	    New File  		  218640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_ME.GR2100%  
+	    New File  		  166768	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_ME_B.GR2100%  
+	    New File  		  176036	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MF.GR2100%  
+	    New File  		  140080	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MF_B.GR2100%  
+	    New File  		  202536	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_MG.GR2100%  
 	    New File  		  667128	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_Broken_L.GR2100%  
 	    New File  		  667128	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_Broken_R.GR2100%  
 	    New File  		  668348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c\AkELkA Mods_Rathgor_Reforged_Head\AkELkA_Reforged_head\Generated\Public\AkELkA_DGB_Heads\_Male\Head\DGB_M_Head_E_EL_Reforged\DGB_M_NKD_Head_E_EL_Reforged_Clean.GR2100%  
@@ -610,23 +930,23 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :        26        26         1         0         0         0
-   Files :        26        26         0         0         0         0
-   Bytes :    6.05 m    6.05 m         0         0         0         0
+    Dirs :        29        29         1         0         0         0
+   Files :        66        66         0         0         0         0
+   Bytes :   16.88 m   16.88 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            83525631 Bytes/sec.
-   Speed :            4779.374 MegaBytes/min.
-   Ended : Wednesday, March 18, 2026 4:23:35 AM
+   Speed :           194510153 Bytes/sec.
+   Speed :           11129.960 MegaBytes/min.
+   Ended : Wednesday, March 18, 2026 6:19:05 PM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 26 
-[DEBUG] Successfully copied files: 26 
+[DEBUG] Total files counted: 66 
+[DEBUG] Successfully copied files: 66 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c: 
-      Total files: 26 
-      Copied successfully: 26 
+      Total files: 66 
+      Copied successfully: 66 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -651,17 +971,17 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 141 
+[LOG] Files copied by xcopy: 261 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 26 
+[LOG] Files copied by xcopy: 66 
 SECTION 4: FINAL SUMMARY 
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 176 
-[SUMMARY] Total files successfully copied: 352 
+[SUMMARY] Total files found: 336 
+[SUMMARY] Total files successfully copied: 672 
  
 [SUMMARY] All files were copied successfully 
  
