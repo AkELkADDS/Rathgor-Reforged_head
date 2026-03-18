@@ -1688,7 +1688,7 @@
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h796e68a1g717fg6dfeg863cg17d249142a94" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="RathB_Head_M_E_Clean2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="RathB_Head_M_Krothar_A_C"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Head"/>
                     <attribute id="UUID" type="guid" value="3205f0ac-47e0-4170-ac82-6c690763492e"/>
@@ -1698,7 +1698,7 @@
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="head1cd49g9649ga45egc195ga5219e970c59" version="4"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="RathB_Head_M_E_Clean2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="RathB_Head_M_Krothar_B_C"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Head"/>
                     <attribute id="UUID" type="guid" value="5c5cc5ac-b2e0-43de-9abb-4fda858280a8"/>

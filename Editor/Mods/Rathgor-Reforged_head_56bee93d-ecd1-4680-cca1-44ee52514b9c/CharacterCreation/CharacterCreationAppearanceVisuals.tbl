@@ -2229,7 +2229,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="a5881d7d-1a6d-435b-a986-d4134d3d8bbe" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h796e68a1g717fg6dfeg863cg17d249142a94" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="RathB_Head_M_E_Clean2" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="RathB_Head_M_Krothar_A_C" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -2243,7 +2243,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="363a1cec-8d33-4cc5-91e8-c97157d8b914" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="head1cd49g9649ga45egc195ga5219e970c59" version="4" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_A" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="RathB_Head_M_E_Clean2" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="RathB_Head_M_Krothar_B_C" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
