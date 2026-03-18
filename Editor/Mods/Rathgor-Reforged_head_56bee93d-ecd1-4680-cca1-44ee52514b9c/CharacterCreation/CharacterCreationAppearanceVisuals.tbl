@@ -2218,20 +2218,6 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_0_NoChin" />
       </fields>
     </stat_object>
-    <stat_object color="#FF800080" is_substat="false">
-      <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_153" />
-        <field name="UUID" type="IdTableFieldDefinition" value="5c5cc5ac-b2e0-43de-9abb-4fda858280a8" />
-        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
-        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
-        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="363a1cec-8d33-4cc5-91e8-c97157d8b914" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="head1cd49g9649ga45egc195ga5219e970c59" version="3" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_A" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="RathB_Head_M_E_Clean2" />
-      </fields>
-    </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_157" />
@@ -2246,47 +2232,18 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="RathB_Head_M_E_Clean2" />
       </fields>
     </stat_object>
-    <stat_object color="#FF4B0082" is_substat="false">
+    <stat_object color="#FF800080" is_substat="false">
       <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_159" />
-        <field name="UUID" type="IdTableFieldDefinition" value="f8e3615c-50cf-4e08-a11b-194c7cdada2d" />
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_153" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5c5cc5ac-b2e0-43de-9abb-4fda858280a8" />
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
-        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbfc1ddb7g0c62g7d6eg613eg230da9dd3713" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_0_NoChin" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_158" />
-        <field name="UUID" type="IdTableFieldDefinition" value="645b2063-61a3-41ae-ba48-b1bdba9ecaf4" />
-        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
-        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
-        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
-        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9603b8fdg4c5fgbbe7gc578g65acaa926ff0" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_0_NoJaw" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_160" />
-        <field name="UUID" type="IdTableFieldDefinition" value="58d73896-b41d-4da1-9838-8d74f28b30ed" />
-        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
-        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
-        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
-        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="394d3db3-5698-4694-b34b-fdcde46c3ca5" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1067575cg827cg77e0g8cf8g655b72a91a69" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_CrestTop_0_NoCrest" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Rath_Top_NoCrest" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="363a1cec-8d33-4cc5-91e8-c97157d8b914" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="head1cd49g9649ga45egc195ga5219e970c59" version="3" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_A" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="RathB_Head_M_E_Clean2" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -2362,6 +2319,124 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_E_EL_Top_Reforged_Broken_Light_R" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="86049078-ea40-2ec0-26be-44289d4075bd" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="RathA_Top_A_1_B_Light_R" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_195" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a3136102-2cfd-425c-b7ff-84dff2736bf3" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h48feed66g7746gc173g3870gbde1d01e478e" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_E_EL_Top_Reforged_Clean" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="ef731d03-f85b-4923-bc51-2a4c3fcac046" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="RathA_TopA_1_C" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_196" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bf281679-6b74-4967-b84d-e4a33b0df0ad" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h77045163gee82ge366gdd9egff8e55e4a0c7" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_E_EL_Top_Reforged_Broken_L" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="a2897772-30bc-40a1-bc2b-9d7243e779ba" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="RathA_Top_A_1_B_Black_L" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_197" />
+        <field name="UUID" type="IdTableFieldDefinition" value="25f4b837-424e-45cc-b2ad-26b33776aba3" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0abd2e9cgb3d0ga2ecg64a7gabbea078b5e7" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_E_EL_Top_Reforged_Broken_R" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="b82b6da8-d05f-47d6-a0c2-c2adf577fb5f" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="RathA_Top_A_1_B_Black_R" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_198" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2afaf551-bd4d-40d2-82d4-dd729b3335c0" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h410ebd3ag1e45g36d7g8b86g3f487746ae36" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_E_EL_Top_Reforged_Broken_Light_L" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="7aa41507-3589-9636-8e5c-ff882a798a52" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="RathA_Top_A_1_B_Light_L" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_199" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f46ea116-1dec-4018-a816-817eca49205e" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h53ba431eg4876g0c69g51fdgc7ac99ee33b2" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_E_EL_Top_Reforged_Broken_Light_R" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="86049078-ea40-2ec0-26be-44289d4075bd" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="RathA_Top_A_1_B_Light_R" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_159" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f8e3615c-50cf-4e08-a11b-194c7cdada2d" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbfc1ddb7g0c62g7d6eg613eg230da9dd3713" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_0_NoChin" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_158" />
+        <field name="UUID" type="IdTableFieldDefinition" value="645b2063-61a3-41ae-ba48-b1bdba9ecaf4" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9603b8fdg4c5fgbbe7gc578g65acaa926ff0" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_0_NoJaw" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_160" />
+        <field name="UUID" type="IdTableFieldDefinition" value="58d73896-b41d-4da1-9838-8d74f28b30ed" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="394d3db3-5698-4694-b34b-fdcde46c3ca5" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1067575cg827cg77e0g8cf8g655b72a91a69" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_CrestTop_0_NoCrest" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Rath_Top_NoCrest" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -2851,7 +2926,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5c5cc5ac-b2e0-43de-9abb-4fda858280a8" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="1ae09fc9-3c68-773d-ffb4-4743c19e3833" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="bf63b2df-b0c9-413a-84c0-06abb92501cc" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd2ee5938gf182g3614gc987g4bfb2d24376e" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_MA_DaggerPommel" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Chin_MA" />
@@ -3003,6 +3078,606 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="888d460e-979c-4669-8c96-095165592ce1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1533d52cg853eg85degc6f5g226069188e5c" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_MF_HatchetSpike" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Chin_MF" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_200" />
+        <field name="UUID" type="IdTableFieldDefinition" value="066c72c0-7c1b-4bfe-a1b5-d86acbe2c42a" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="d5034f59-d180-43bb-9dc1-5f7720e42430" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h064519d5g3118g0f85g59aage0fc3b9c4dfe" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_FA_TauntingStylus" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_201" />
+        <field name="UUID" type="IdTableFieldDefinition" value="747c211e-f5c6-44d4-b227-b45d99a6b70b" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="24e6ddf8-b137-4cac-8823-a87e66fc273a" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hef5c6cf2ge6abgf633g15eegd3f50b057ba1" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_FB_CoralRidges" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_202" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f73da5a9-1843-4fda-b7a3-a8222bfba3b5" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="532d121f-cf09-441e-9fb8-04f80687b87b" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6fd49e39g0527gfbccg0d6cgf45c4976ed8b" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_FC_PorcupineChops" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_203" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0a8f7b61-878f-432f-b8b6-c27c71413732" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="de3fd005-ccd0-412c-95c8-e149a769a69a" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd883653eg7416g39d0ge8abg261cbb5182a8" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_FD_JawsOfRuin" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_204" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0b0d7798-5bdd-4367-8066-d3edf9bd2159" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="2269ae9d-8197-4d4e-baac-94b23f7e3da4" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb9f8d567gce61g3512g0accgf53dc4efcaa2" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_FD_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_FD_JawsOfRuin_Short" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_205" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5f33fc7f-6d2a-4656-ad59-9b614c2ce448" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="8ebaf9a0-5bc9-4a7f-b9f6-3b31008aec65" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hee3719f2g80cdg5354g47a7g8263a257f3e3" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_FE_SombreCalamity" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_217" />
+        <field name="UUID" type="IdTableFieldDefinition" value="52da16ce-2d10-4a20-a9dd-b8392a3abe4f" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="167a9b91-5aaf-4db8-b0d0-b61b0355307e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9582bf0fg57e1gb571g4253ge3bc316707ac" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_MA_InverseCrown" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_218" />
+        <field name="UUID" type="IdTableFieldDefinition" value="196b6d46-8bdc-4805-ac09-3718d9d64bcf" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="45382264-4047-4d16-b74c-2cc503ba0b14" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h84a82199ga9fbgbd52g54b2ge73325e74b1f" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_MA_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_MA_InverseCrown_Short" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_219" />
+        <field name="UUID" type="IdTableFieldDefinition" value="56b508f0-ac1c-4465-81f9-a03b1c675213" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="210c3600-7a2b-49fa-9aba-b16429d26e71" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdd5b1bb2gbef5gb71egfcb1g2b0117c842a9" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_MC_ConciseStrenght" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_220" />
+        <field name="UUID" type="IdTableFieldDefinition" value="538c1031-8d98-4938-a395-e00a5be657d4" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="7ec7e2f1-a9d2-4946-80ea-e98abca0e816" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h27d5a166g6f4ag3f23gd2c9g039aa6ea082c" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_MD_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_MC_ConciseStrenght_Short" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_221" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1e359131-9420-468a-b648-75437a700812" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="a51ab11d-933a-49ac-8b4e-f333ada30377" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hedf69ed3gb77dg0de3g25d6gdd38ccbe182e" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_MD_NestONeedles" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_222" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1590fdf3-af51-42fe-9ee8-d9e2a1f199c7" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="7ec7e2f1-a9d2-4946-80ea-e98abca0e816" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcf420c0cg7261geaa6g86dfg58113041fa8c" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_MD_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_MD_NestONeedles_Short" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_223" />
+        <field name="UUID" type="IdTableFieldDefinition" value="58e1b126-86d8-482f-9b39-35655c0a262c" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="ad10faef-7466-43b7-a5d2-1866f46078d1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h09ba6b9bg1485gce54g7635g24382fff7045" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_ME_Dragonglass" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_224" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4cc93a23-15ce-4320-ab84-5b0ccb7c2fe2" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="17b4a640-5df9-4628-839b-e860d2e75eb9" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6698bcf9g4e51g485cg7ea9gb460aaef7f52" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_ME_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_ME_Dragonglass_Short" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_225" />
+        <field name="UUID" type="IdTableFieldDefinition" value="62c7b4ea-c1a4-44c9-96ec-334e585dee71" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="01da92e2-b720-4929-b74d-2e6299232dda" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h732434e4g888fg0667gc640g1b911c4d6403" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_MF_RoyalPlateau" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_226" />
+        <field name="UUID" type="IdTableFieldDefinition" value="90cb3f9c-9260-45b6-bcb5-f3c10bc2d8dd" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="ccfa944f-948e-4510-bc56-99eaf25d8e1a" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h19a82e60ge02ageddfg7ddfg34de206d3509" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_MF_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_MF_RoyalPlateau_Short" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_227" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e2304ace-5773-4f95-b912-0094e0f9c91e" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="918b5739-fb45-4317-86d1-9823368211e8" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1bfa2a29g35e9g576bg76ebgb67563731e61" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Jaw_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Jaw_MG_SharkFins" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_228" />
+        <field name="UUID" type="IdTableFieldDefinition" value="944e5cfa-cc26-4f97-9c49-c9dc63256115" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="d83dc5b1-000a-4d3d-a301-84018161e61d" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd67a8c83gd247g710fg1d22gd607558d66f1" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_CrestTop_MA_Arcuate" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Top_MA" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_229" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5cea8a87-f44f-4518-a5de-9e26aeb5cf23" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="dd0fd97f-acc7-4d91-bfd5-ec5098e4c898" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h878089c1g45c8g2857g3fedgb4b2a787a1c4" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_CrestTop_MB_ClosingClaws" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Top_MB" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_230" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b27f00ff-9bc3-4e88-91e0-1eaa27d4e3c9" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="26417d8c-5b38-408a-89f9-ff5083f320bc" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3494900fg5c7cg61deg53b6gd2619ac58711" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_CrestTop_MC_GobletHandlers" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Top_MC" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_231" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fa9e5d74-1b5d-4ada-8f83-3de5d3a58c15" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="a7b73481-4868-4668-bfd4-a9c95ef251d8" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hba5c4559gacf7gae79g7476ge9e4e6828b1b" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_CrestTop_MD_QuilledWedge" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Top_MD" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_232" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a2aadff8-02ed-41ba-9ede-fd19a9ac13a8" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="dbd824e6-9b4c-426f-bd0c-5ed331e8987d" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha49e5544ga3e5g4974g6270g02ed9adef95a" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_CrestTop_ME_MalformedApex" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Top_ME" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_233" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d17fbe70-9f68-4a28-8202-08d4005e81a9" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="3eddcf2f-3c2e-420a-89d4-25e20a8d8889" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h02db6c18ge34ag29d1g4f25gb88e63dc84f0" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_CrestTop_MG_Ophidian" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Top_MG" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_234" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d1895ce0-1ba3-4568-adbe-956d7538a704" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="cf3a3faa-208e-40ed-b1f0-4539fa56a2e2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf30c5ac6g0adfg665cg5709gf6043e21bb76" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_CrestTop_FA_ReptileFrills" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Top_FA" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_235" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0245de61-0570-4294-8ce3-ebd0ac058e94" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="98ccd4df-6746-452c-9314-2b4357af11f3" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd5c51f22gb8beg8ceagdf13g33230c6b2f33" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_CrestTop_FB_PredaciousCrest" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Top_FB" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_236" />
+        <field name="UUID" type="IdTableFieldDefinition" value="102c2dd4-9f0a-4d7c-b812-db6e0a7436a2" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="4e3fd4e0-a031-45d3-9fb1-50528246279e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8fbf2e53g18b3gfe75gf52bg197b1edff0f4" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_CrestTop_FC_SpinousCrown" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Top_FC" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_237" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e2c691c9-0cfb-4e66-84b0-d52ca4e0a3dc" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="74f0cbd8-d136-4ad1-8a7d-6b34d20239c7" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0181c95bg34d0g0df9g9df1g6c37399b12d7" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_CrestTop_FD_HalberdBlades" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Top_FD" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_238" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0896f6f8-0741-40f4-afd2-06e5b0a873be" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="ceb614a8-cfea-443c-acbb-054aa9bf7abf" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1d190c62g4e31g9fc2g78efg9ca2c638655c" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_CrestTop_FE_ProudPhalanx" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Top_FE" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_239" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2462798b-dea7-456e-8cbb-31cc076a7bff" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="74200fe7-84fa-4d8a-b7d9-897a500dc4ac" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd7c3506bg6d0ag2697g3799gc08c7e71836f" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_CrestTop_MF_Malefic" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Top_MF" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_240" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1ec48821-f6b9-4498-a902-bcd45e3231c2" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="bf63b2df-b0c9-413a-84c0-06abb92501cc" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h488d36efg4519g564fg34e0ge6617147b7a0" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_MA_DaggerPommel" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Chin_MA" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_241" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3173e7b7-a322-4855-9e8d-8d50f609e024" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="67e0e0ea-3fa1-46f2-b428-8984ad100f71" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h920bef99g60c7gd931g0f56gb45bd4639408" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_MC_Calcified" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Chin_MC" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_242" />
+        <field name="UUID" type="IdTableFieldDefinition" value="81561a8a-6316-4a20-979f-90def0307bc9" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="03f2f6a8-a6eb-4f2c-a701-20d5d46a98f6" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6a813203g1bd8g3840gd159g3a31a9ad62ef" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_MD_Chintacle" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Chin_MD" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_243" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4a2b2126-8994-45ff-9a07-72052e5627c7" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="11105697-99f9-4e64-8c0d-5c45785f5e80" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf1cd8e8dg768ag2d7cg7f08gcff4b469993d" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_ME_WaltzingFangs" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Chin_ME" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_244" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e3dd2dbb-02fa-4630-bf20-f7701d072454" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="c7246405-5078-4de9-ac59-731113702f5d" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5e7599fcg06d2g68c3g8350g32ec7f1cff85" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_MG_Stentorian" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Chin_MG" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_245" />
+        <field name="UUID" type="IdTableFieldDefinition" value="69388796-a620-4e2c-8037-75b0e9eef6c0" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="565e98bc-4eee-468a-ae67-5ef8c5db0dd2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he49092beg281fgb943g9370gb8c2b4b1f5c3" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_FA_CliffJut" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Chin_FA" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_246" />
+        <field name="UUID" type="IdTableFieldDefinition" value="990d9b51-79bf-409c-a364-12e3b508fd20" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="d60d2b4d-abf6-4e95-af9b-deba49ffebe1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb861de3fg7a6bg2c6eg030ag3410aa09bfd4" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_FB_JewelPoint" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Chin_FB" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_247" />
+        <field name="UUID" type="IdTableFieldDefinition" value="50810a33-c42d-4106-b4f3-20006bbf8931" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="386ceaae-c473-48a9-b771-f716041a3839" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2993708eg8c0bg17afgfcd0g2d53f7f27686" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_FC_Stalactite" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Chin_FC" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_248" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4afdef49-bda3-4053-a513-1ee56dcea1fe" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="cc3168f5-7e4b-4fda-aee1-ecb842d1cbb8" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h072b26b9g116eg00f0g41c6gb80e68523b15" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_FD_Pinnacle" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Chin_FD" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_249" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a2c6fcb8-aa7c-47fc-8892-3be9bca47cf0" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="dac99588-56fb-4ce3-818c-67d85ae4e7c8" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha792a872gfdecgc467ge8acg4957f83c6bb6" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_FE_Apogee" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Chin_FE" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_250" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d34cf64b-06f0-4216-acbd-6b2ee3692fc9" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="3205f0ac-47e0-4170-ac82-6c690763492e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="888d460e-979c-4669-8c96-095165592ce1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9f2d8c03g513ag7369gc072g1f842508ffb1" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Rath_Chin_MF_HatchetSpike" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_Chin_MF" />
       </fields>
