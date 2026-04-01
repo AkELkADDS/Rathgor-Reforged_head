@@ -40,6 +40,33 @@
                     <attribute id="TargetMaterialUUID" type="FixedString" value="6db94ee5-1df6-882f-8647-6b7ddbef99f6"/>
                     <attribute id="UUID" type="guid" value="aa846236-604a-4f6a-b30a-0e6ff8de4b8d"/>
                 </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Head_Krothar_B_C"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="f473f801-fa07-eeef-26a5-3bb3be32c01a"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="655b6b13-7aea-0d2d-0fff-d873e0cff7ff"/>
+                    <attribute id="UUID" type="guid" value="030e59ba-93ff-4f8a-89a3-ae50eab857d9"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Head_Krothar_A_C"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="af543dc7-c51e-06e6-c43d-ad69786a3700"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="e5894cfe-2d7c-54d8-cfa5-78c73de06dd4"/>
+                    <attribute id="UUID" type="guid" value="0ee99604-9a4a-4e68-a9f9-2e01a112e358"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Head_Krothar_A_B_L"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="d3fa4b33-095a-c85e-f974-1f02787520e5"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="4a32327c-75bd-37cc-f142-4a206c1c9717"/>
+                    <attribute id="UUID" type="guid" value="2aacbdf7-38de-422f-b82b-728271d94e37"/>
+                </node>
             </children>
         </node>
     </region>
