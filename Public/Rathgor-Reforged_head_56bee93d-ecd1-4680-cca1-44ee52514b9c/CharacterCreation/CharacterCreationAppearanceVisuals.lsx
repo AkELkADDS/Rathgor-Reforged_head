@@ -1697,16 +1697,6 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h1c5dc6fbg51fcg66a1g23bdg4577dee04b20" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="RathB_Head_M_Krothar_B_C"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Head"/>
-                    <attribute id="UUID" type="guid" value="a07174dc-f0a1-4d10-9ad4-0481901711e5"/>
-                    <attribute id="VisualResource" type="guid" value="496ca52e-4432-4d12-9ab9-c29cbeed0951"/>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="head1cd49g9649ga45egc195ga5219e970c59" version="4"/>
                     <attribute id="IconIdOverride" type="FixedString" value="RathB_Head_M_Krothar_B_C"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
@@ -2791,6 +2781,16 @@
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="58d73896-b41d-4da1-9838-8d74f28b30ed"/>
                     <attribute id="VisualResource" type="guid" value="394d3db3-5698-4694-b34b-fdcde46c3ca5"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1c5dc6fbg51fcg66a1g23bdg4577dee04b20" version="3"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="RathB_Head_M_Krothar_B_C"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="a07174dc-f0a1-4d10-9ad4-0481901711e5"/>
+                    <attribute id="VisualResource" type="guid" value="496ca52e-4432-4d12-9ab9-c29cbeed0951"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>

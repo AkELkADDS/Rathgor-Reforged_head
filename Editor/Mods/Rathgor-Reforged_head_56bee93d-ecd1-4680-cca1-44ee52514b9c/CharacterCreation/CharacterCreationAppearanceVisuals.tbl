@@ -3721,7 +3721,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="496ca52e-4432-4d12-9ab9-c29cbeed0951" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1c5dc6fbg51fcg66a1g23bdg4577dee04b20" version="2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1c5dc6fbg51fcg66a1g23bdg4577dee04b20" version="3" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Krothar_B_B_R" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="RathB_Head_M_Krothar_B_C" />
       </fields>
