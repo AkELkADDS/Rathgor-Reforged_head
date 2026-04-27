@@ -341,6 +341,13 @@
                     <attribute id="V2" type="float" value="0.74951172"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="RathB_Head_M_Krothar_B_B_R"/>
+                    <attribute id="U1" type="float" value="0.12548828"/>
+                    <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.75048828"/>
+                    <attribute id="V2" type="float" value="0.87451172"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="RathB_Head_M_Krothar_B_C"/>
                     <attribute id="U1" type="float" value="0.00048828125"/>
                     <attribute id="U2" type="float" value="0.12451172"/>
